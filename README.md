@@ -1,5 +1,5 @@
 
-# 💰 ContaBanco
+# 💰 Conta Banco
 
 Este projeto foi desenvolvido como parte do módulo de **Sintaxe Java** do curso da **DIO (Digital Innovation One)**.  
 O objetivo é aplicar conceitos fundamentais da linguagem Java por meio da criação de um sistema simples de cadastro de conta bancária via terminal.
